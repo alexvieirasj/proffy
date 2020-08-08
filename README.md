@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">	
-    <img src="/web/src/assets/images/landing.svg" alt="Proffy" width="600"/>
+    <img src="/web/src/assets/images/1index.JPG" alt="Proffy" width="600"/>
 </p>
 
 ## :bookmark: Sobre
