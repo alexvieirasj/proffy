@@ -1,9 +1,5 @@
-<h1 align="center">
-    Proffy
-</h1>
-
 <p align="center">	
-    <img src="/web/src/assets/images/1index.JPG" alt="Proffy" width="600"/>
+    <img src="/web/src/assets/images/1index.JPG" alt="Proffy" width="1000"/>
 </p>
 
 ## :bookmark: Sobre
