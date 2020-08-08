@@ -8,7 +8,7 @@
 
 ## :bookmark: Sobre
 
-The <strong>Proffy</strong> é um projeto feito para estudantes encontrarem professores. O projeto foi desenvolvolvido durante a segunda NLW da Rocketseat. 
+A aplicação <strong>Proffy</strong> é um projeto feito para estudantes encontrarem professores. O projeto foi desenvolvolvido durante a segunda NLW da Rocketseat. 
 
 ## :rocket: Tecnologias utilizadas
 
@@ -110,9 +110,6 @@ $ yarn knex:migrate
   :iphone: Rodar a aplicação Mobile
 </h2>
 
-Para testar a aplicação você precisar ter o emulador instalado ou o app do expo instalado em seu celular. Para utilizar o app, quando a página abrir a aplicação no navegador, escaneie com a camera do celular o QR 
-Code apresentado, e clique no link que redirecionará para o aplicativo
-
 Os comandos abaixo acessa a pasta do projeto e instala todas as dependências
 ```zsh
 # Entrar na pasta mobile
@@ -147,6 +144,10 @@ $ expo install @react-native-community/async-storage
 $ yarn start
 ```
 
+<strong>Obs 1:</strong> Para testar a aplicação você precisar ter o emulador instalado ou o app do expo instalado em seu celular. Para utilizar o app, quando a página abrir a aplicação no navegador, escaneie com a camera do celular o QR Code apresentado, e clique no link que redirecionará para o aplicativo
+
+<strong>Obs 2:</strong> No filtro da busca de professores disponiveis (botão "Estudar" na tela inicial), no campo "Dia da Semana" utilize números para cada dia, sendo 0 = domingo, segunda = 1 
+e assim por diante. Caso não apareça o card com o professor por completo, clique no ícone do "filtro" que ocultara os campos dos filtros e mostrará o restando do card(s)
 
 ## :memo: Licença
 
