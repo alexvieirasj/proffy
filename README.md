@@ -43,7 +43,7 @@ $ yarn start
 ```
 
 
-Execute os comandos abaixo para instalar manualmente as dependecias 
+Execute os comandos abaixo para instalar manualmente as dependências 
 ```zsh
 # Entrar na pasta web
 $ cd web
@@ -74,7 +74,7 @@ $ yarn start
 ```
 
 
-Execute os comandos abaixo para instalar manualmente as dependecias 
+Execute os comandos abaixo para instalar manualmente as dependências 
 ```zsh
 # Entrar na pasta server
 $ cd server
@@ -119,7 +119,7 @@ $ yarn start
 ```
 
 
-Execute os comandos abaixo para instalar manualmente as dependecias 
+Execute os comandos abaixo para instalar manualmente as dependências 
 ```zsh
 # Entrar na pasta mobile
 $ cd mobile
