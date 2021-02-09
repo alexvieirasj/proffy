@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Back-end to Proffy website",
   "main": "index.js",
-  "author": "Pedro Chamberlain",
+  "author": "Alex Vieira",
   "license": "MIT",
   "scripts": {
     "start": "ts-node-dev --transpile-only --ignore-watch node_modules --respawn src/server.ts",
