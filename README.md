@@ -119,7 +119,7 @@ $ yarn start
 ```
 
 
-Execute os comandos abaixo para instalar manualmente as dependências 
+Execute os comandos abaixo para instalar manualmente todas as dependências 
 ```zsh
 # Entrar na pasta mobile
 $ cd mobile
