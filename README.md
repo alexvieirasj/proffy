@@ -4,7 +4,7 @@
 
 ## :bookmark: Sobre
 
-A aplicação <strong>Proffy</strong> é um projeto feito para estudantes encontrarem professores. O projeto foi desenvolvolvido durante a segunda NLW da Rocketseat. 
+A aplicação <strong>Proffy</strong> é um projeto feito para estudantes encontrarem professores. O projeto foi desenvolvolvido durante a segunda edição da NLW da empresa Rocketseat. 
 
 ## :rocket: Tecnologias utilizadas
 
