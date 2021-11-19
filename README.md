@@ -61,7 +61,7 @@ $ yarn start
   :computer: Rodar a aplicação Server (API)
 </h2>
 
-Os comandos abaixo acessa a pasta do projeto e instala todas as dependências
+Os comandos listados abaixo acessam a pasta do projeto e instalam todas as dependências
 ```zsh
 # Entrar na pasta server
 $ cd server
