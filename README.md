@@ -43,7 +43,7 @@ $ yarn start
 ```
 
 
-Execute os comandos abaixo para instalar manualmente as dependências 
+Execute os comandos abaixo para instalar manualmente as dependências do projeto
 ```zsh
 # Entrar na pasta web
 $ cd web
