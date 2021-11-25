@@ -74,7 +74,7 @@ $ yarn start
 ```
 
 
-Execute os comandos abaixo para instalar manualmente as dependências 
+Execute os comandos abaixo para instalar manualmente todas as dependências 
 ```zsh
 # Entrar na pasta server
 $ cd server
