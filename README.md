@@ -142,7 +142,7 @@ $ yarn start
 
 <strong>Obs 1:</strong> Para testar a aplicação mobile, você precisar ter o emulador instalado no computador ou o app do expo instalado em seu celular. Para utilizar o app, quando a página abrir a aplicação no navegador, escaneie com a camera do celular o QR Code apresentado, e clique no link que redirecionará para o aplicativo
 
-<strong>Obs 2:</strong> No mobile, o filtro da busca de professores disponiveis (botão "Estudar" na tela inicial), no campo "Dia da Semana" utilize números para cada dia da semana, 
+<strong>Obs 2:</strong> Na aplicação mobile, o filtro da busca de professores disponiveis (botão "Estudar" na tela inicial), no campo "Dia da Semana" utilize números para cada dia da semana, 
 sendo 0 = domingo, segunda = 1 e assim por diante. Caso não apareça o card com o professor completamente, clique no ícone do "filtro" que ocultará os campos dos filtro e mostrará o restante do card(s)
 
 ## :memo: Licença
