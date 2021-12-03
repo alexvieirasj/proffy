@@ -106,7 +106,7 @@ $ yarn knex:migrate
   :iphone: Rodar a aplicação Mobile
 </h2>
 
-Os comandos abaixo acessa a pasta do projeto e instala todas as dependências
+Os comandos listados abaixo acessam a pasta do projeto e instalam todas as dependências
 ```zsh
 # Entrar na pasta mobile
 $ cd mobile
