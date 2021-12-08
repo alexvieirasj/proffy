@@ -8,7 +8,7 @@ A aplicação <strong>Proffy</strong> é um projeto feito para estudantes encont
 
 ## :rocket: Tecnologias utilizadas
 
-No projeto foram utilizadas as seguintes tecnologias:
+No projeto foram utilizadas as seguintes tecnologias listadas abaixo:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://expressjs.com/)
